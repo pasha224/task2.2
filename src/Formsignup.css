@@ -1,0 +1,30 @@
+.name{
+    display: inline-block;
+    font-size: 0.8rem;
+    margin-bottom: 6px;
+    color: rgb(255, 255, 255);
+  }
+  .menu{
+    background: linear-gradient(
+        90deg,
+        rgba(45, 165, 255, 1) 45%,
+        rgba(1, 223, 245, 1) 100%
+      );
+      text-align: center;
+      color: #fff;
+  }
+  .menu a{
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    text-transform: lowercase;
+    margin: 1.5rem 0;
+    position: relative;
+    padding-bottom: 1rem;
+  }
+  .number{
+    display: inline-block;
+    font-size: 0.8rem;
+    margin-bottom: 6px;
+    color: rgb(255, 255, 255);
+  }
